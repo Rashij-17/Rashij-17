@@ -35,8 +35,4 @@
   <img src="https://img.shields.io/badge/MySQL-F5F5DC?style=flat-square&logo=mysql&logoColor=black" alt="MySQL" />
   <img src="https://img.shields.io/badge/Java-008080?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
 </p>
-## 📈 Contribution Graph
 
-<p align="left">
-  <img src="https://ghchart.rshah.org/008080/Rashij-17" alt="Contribution Graph" />
-</p>
