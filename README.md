@@ -93,25 +93,6 @@ public:
 
 ---
 
-## 📊 GitHub Statistics
-
-<div align="center">
-
-<a href="https://github.com/Rashij-17">
-  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=Rashij-17&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&bg_color=0d1117&ring_color=58a6ff" alt="Rashi's GitHub Stats"/>
-  &nbsp;
-  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rashij-17&layout=compact&langs_count=8&theme=github_dark&hide_border=true&title_color=58a6ff&text_color=c9d1d9&bg_color=0d1117" alt="Top Languages"/>
-</a>
-
-<br/><br/>
-
-<a href="https://git.io/streak-stats">
-  <img src="https://streak-stats.demolab.com/?user=Rashij-17&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=ff6b6b&currStreakLabel=58a6ff&sideLabels=8b949e&sideNums=c9d1d9&dates=8b949e&stroke=1c2128" alt="GitHub Streak"/>
-</a>
-
-</div>
-
----
 
 ## 📈 Contribution Graph
 
@@ -156,7 +137,6 @@ public:
 <div align="center">
   <i>"Code is poetry — write it beautifully, execute it relentlessly."</i>
   <br/><br/>
-  <b>⭐ Star some repos if you find them useful — it means a lot! ⭐</b>
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,30&height=140&section=footer&animation=fadeIn" width="100%"/>
