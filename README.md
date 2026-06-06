@@ -120,12 +120,17 @@ const rashi = {
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Rashij-17&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0a0a0f&title_color=a855f7&icon_color=c084fc&text_color=e2e8f0&ring_color=7c3aed&include_all_commits=true&count_private=true" />
-<img width="49%" src="https://streak-stats.demolab.com/?user=Rashij-17&theme=tokyonight&hide_border=true&background=0a0a0f&ring=a855f7&fire=c084fc&currStreakLabel=a855f7&sideLabels=e2e8f0&sideNums=ffffff&currStreakNum=ffffff&dates=888888" />
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rashij-17&theme=tokyonight" />
+
+<br/>
+
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Rashij-17&theme=tokyonight" />
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Rashij-17&theme=tokyonight" />
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Rashij-17&theme=tokyonight" />
 
 <br/><br/>
 
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rashij-17&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a0a0f&title_color=a855f7&text_color=e2e8f0&langs_count=6" />
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Rashij-17&bg_color=0a0a0f&color=a855f7&line=7c3aed&point=c084fc&area=true&hide_border=true&area_color=3b0764" />
 
 </div>
 
