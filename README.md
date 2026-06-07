@@ -190,6 +190,6 @@ const rashi = {
 
 <div align="center">
 
-*"the road doesn't end at the last commit — it just forks."* &nbsp; 🛣️
+*"the road doesn't end at the last commit — it just forks."* &nbsp; 
 
 </div>
