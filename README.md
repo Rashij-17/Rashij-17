@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0f,40:3b0764,80:7c3aed,100:a855f7&height=220&section=header&text=RASHI%20JOHARI&fontSize=58&fontAlignY=36&animation=twinkling&desc=◦%20on%20the%20road%20◦%20always%20building%20◦&descAlignY=58&descSize=16&fontColor=ffffff" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a1a,40:0c1445,80:1e40af,100:3b82f6&height=220&section=header&text=RASHI%20JOHARI&fontSize=58&fontAlignY=36&animation=twinkling&desc=◦%20on%20the%20road%20◦%20always%20building%20◦&descAlignY=58&descSize=16&fontColor=ffffff" width="100%" />
 
 </div>
 
@@ -8,7 +8,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2200&pause=900&color=A855F7&center=true&vCenter=true&width=500&lines=Full-Stack+Developer+%F0%9F%9B%A3%EF%B8%8F;AI+Integration+Enthusiast+%F0%9F%A4%96;Data+Analytics+Explorer+%F0%9F%93%8A;B.Tech+CSE+%40+JIIT+Noida+%F0%9F%8E%93;Coffee+%2B+Code+%3D+everything+%E2%98%95;always+on+the+road+to+something.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2200&pause=900&color=3B82F6&center=true&vCenter=true&width=500&lines=Full-Stack+Developer+%F0%9F%9B%A3%EF%B8%8F;AI+Integration+Enthusiast+%F0%9F%A4%96;Data+Analytics+Explorer+%F0%9F%93%8A;B.Tech+CSE+%40+JIIT+Noida+%F0%9F%8E%93;Coffee+%2B+Code+%3D+everything+%E2%98%95;always+on+the+road+to+something.)](https://git.io/typing-svg)
 
 </div>
 
@@ -67,46 +67,46 @@ const rashi = {
 
 **— Languages —**
 
-![Python](https://img.shields.io/badge/Python-0a0a0f?style=for-the-badge&logo=python&logoColor=a855f7)
-![JavaScript](https://img.shields.io/badge/JavaScript-0a0a0f?style=for-the-badge&logo=javascript&logoColor=c084fc)
-![Java](https://img.shields.io/badge/Java-0a0a0f?style=for-the-badge&logo=openjdk&logoColor=a855f7)
-![HTML5](https://img.shields.io/badge/HTML5-0a0a0f?style=for-the-badge&logo=html5&logoColor=c084fc)
-![CSS3](https://img.shields.io/badge/CSS3-0a0a0f?style=for-the-badge&logo=css3&logoColor=a855f7)
+![Python](https://img.shields.io/badge/Python-0a0a1a?style=for-the-badge&logo=python&logoColor=3b82f6)
+![JavaScript](https://img.shields.io/badge/JavaScript-0a0a1a?style=for-the-badge&logo=javascript&logoColor=93c5fd)
+![Java](https://img.shields.io/badge/Java-0a0a1a?style=for-the-badge&logo=openjdk&logoColor=3b82f6)
+![HTML5](https://img.shields.io/badge/HTML5-0a0a1a?style=for-the-badge&logo=html5&logoColor=93c5fd)
+![CSS3](https://img.shields.io/badge/CSS3-0a0a1a?style=for-the-badge&logo=css3&logoColor=3b82f6)
 
 <br/>
 
 **— Frontend —**
 
-![React](https://img.shields.io/badge/React-0a0a0f?style=for-the-badge&logo=react&logoColor=a855f7)
-![Next.js](https://img.shields.io/badge/Next.js-0a0a0f?style=for-the-badge&logo=next.js&logoColor=ffffff)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-0a0a0f?style=for-the-badge&logo=tailwind-css&logoColor=c084fc)
-![Framer Motion](https://img.shields.io/badge/Framer_Motion-0a0a0f?style=for-the-badge&logo=framer&logoColor=a855f7)
+![React](https://img.shields.io/badge/React-0a0a1a?style=for-the-badge&logo=react&logoColor=3b82f6)
+![Next.js](https://img.shields.io/badge/Next.js-0a0a1a?style=for-the-badge&logo=next.js&logoColor=ffffff)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-0a0a1a?style=for-the-badge&logo=tailwind-css&logoColor=93c5fd)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-0a0a1a?style=for-the-badge&logo=framer&logoColor=3b82f6)
 
 <br/>
 
 **— Backend —**
 
-![FastAPI](https://img.shields.io/badge/FastAPI-0a0a0f?style=for-the-badge&logo=fastapi&logoColor=a855f7)
-![Flask](https://img.shields.io/badge/Flask-0a0a0f?style=for-the-badge&logo=flask&logoColor=ffffff)
-![Node.js](https://img.shields.io/badge/Node.js-0a0a0f?style=for-the-badge&logo=node.js&logoColor=c084fc)
+![FastAPI](https://img.shields.io/badge/FastAPI-0a0a1a?style=for-the-badge&logo=fastapi&logoColor=3b82f6)
+![Flask](https://img.shields.io/badge/Flask-0a0a1a?style=for-the-badge&logo=flask&logoColor=ffffff)
+![Node.js](https://img.shields.io/badge/Node.js-0a0a1a?style=for-the-badge&logo=node.js&logoColor=93c5fd)
 
 <br/>
 
 **— Databases —**
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0a0a0f?style=for-the-badge&logo=postgresql&logoColor=a855f7)
-![MySQL](https://img.shields.io/badge/MySQL-0a0a0f?style=for-the-badge&logo=mysql&logoColor=c084fc)
-![Supabase](https://img.shields.io/badge/Supabase-0a0a0f?style=for-the-badge&logo=supabase&logoColor=a855f7)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0a0a1a?style=for-the-badge&logo=postgresql&logoColor=3b82f6)
+![MySQL](https://img.shields.io/badge/MySQL-0a0a1a?style=for-the-badge&logo=mysql&logoColor=93c5fd)
+![Supabase](https://img.shields.io/badge/Supabase-0a0a1a?style=for-the-badge&logo=supabase&logoColor=3b82f6)
 
 <br/>
 
 **— Tools & Workflow —**
 
-![Git](https://img.shields.io/badge/Git-0a0a0f?style=for-the-badge&logo=git&logoColor=a855f7)
-![GitHub](https://img.shields.io/badge/GitHub-0a0a0f?style=for-the-badge&logo=github&logoColor=ffffff)
-![VS Code](https://img.shields.io/badge/VS_Code-0a0a0f?style=for-the-badge&logo=visual-studio-code&logoColor=c084fc)
-![Figma](https://img.shields.io/badge/Figma-0a0a0f?style=for-the-badge&logo=figma&logoColor=a855f7)
-![Postman](https://img.shields.io/badge/Postman-0a0a0f?style=for-the-badge&logo=postman&logoColor=c084fc)
+![Git](https://img.shields.io/badge/Git-0a0a1a?style=for-the-badge&logo=git&logoColor=3b82f6)
+![GitHub](https://img.shields.io/badge/GitHub-0a0a1a?style=for-the-badge&logo=github&logoColor=ffffff)
+![VS Code](https://img.shields.io/badge/VS_Code-0a0a1a?style=for-the-badge&logo=visual-studio-code&logoColor=93c5fd)
+![Figma](https://img.shields.io/badge/Figma-0a0a1a?style=for-the-badge&logo=figma&logoColor=3b82f6)
+![Postman](https://img.shields.io/badge/Postman-0a0a1a?style=for-the-badge&logo=postman&logoColor=93c5fd)
 
 </div>
 
@@ -130,7 +130,7 @@ const rashi = {
 
 <br/><br/>
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Rashij-17&bg_color=0a0a0f&color=a855f7&line=7c3aed&point=c084fc&area=true&hide_border=true&area_color=3b0764" />
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Rashij-17&bg_color=0a0a1a&color=3b82f6&line=1e40af&point=93c5fd&area=true&hide_border=true&area_color=0c1445" />
 
 </div>
 
@@ -164,15 +164,15 @@ const rashi = {
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a0a0f?style=for-the-badge&logo=linkedin&logoColor=a855f7)](https://www.linkedin.com/in/rashi-johari-746a4b269)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a0a1a?style=for-the-badge&logo=linkedin&logoColor=3b82f6)](https://www.linkedin.com/in/rashi-johari-746a4b269)
 &nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-0a0a0f?style=for-the-badge&logo=github&logoColor=ffffff)](https://github.com/Rashij-17)
+[![GitHub](https://img.shields.io/badge/GitHub-0a0a1a?style=for-the-badge&logo=github&logoColor=ffffff)](https://github.com/Rashij-17)
 &nbsp;
-[![Email](https://img.shields.io/badge/Email-0a0a0f?style=for-the-badge&logo=gmail&logoColor=c084fc)](mailto:rashijohari@gmail.com)
+[![Email](https://img.shields.io/badge/Email-0a0a1a?style=for-the-badge&logo=gmail&logoColor=93c5fd)](mailto:rashijohari@gmail.com)
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Rashij-17&style=for-the-badge&color=7c3aed&label=ROAD+VISITORS)
+![Profile Views](https://komarev.com/ghpvc/?username=Rashij-17&style=for-the-badge&color=1e40af&label=ROAD+VISITORS)
 
 </div>
 
@@ -184,7 +184,7 @@ const rashi = {
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:a855f7,50:7c3aed,100:0a0a0f&height=130&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3b82f6,50:1e40af,100:0a0a1a&height=130&section=footer" width="100%" />
 
 </div>
 
