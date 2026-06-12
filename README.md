@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3500&pause=800&color=A78BFA&center=true&vCenter=true&multiline=false&random=false&width=700&lines=Building+clean%2C+scalable%2C+intelligent+software+systems.;Full-Stack+Engineer+%7C+AI+Integration+Specialist.;B.Tech+CSE+%40+JIIT+Noida+%7C+Hackathon+Builder.;Turning+complex+problems+into+elegant+solutions." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=800&color=A78BFA&center=true&vCenter=true&multiline=false&random=false&width=700&lines=Building+clean%2C+scalable%2C+intelligent+software+systems.;Full-Stack+Engineer+%7C+AI+Integration+Specialist.;B.Tech+CSE+%40+JIIT+Noida+%7C+Hackathon+Builder.;Turning+complex+problems+into+elegant+solutions." alt="Typing SVG" />
   </a>
 </p>
 
@@ -122,6 +122,13 @@ active_in   :
 
 ---
 
+## ⬡ Experience
+
+<details>
+<summary><b>&nbsp;⚡&nbsp; Hackathon Builder — InnovateNSUT '26 & DSC Hackin' Winter</b></summary>
+
+<br/>
+
 Designed and built a full-stack application under competitive hackathon constraints, leading end-to-end development from system architecture to deployment. Managed technical decisions under pressure and delivered a production-grade demo within the event timeline.
 
 - Architected full-stack solution with React frontend and Python-based backend
@@ -147,9 +154,9 @@ Designed and built a full-stack application under competitive hackathon constrai
 
 | Recognition | Details |
 |:---:|:---|
-| 🏆 Hackathon 2nd Runner up | at DSC-Hackin'Winter |
+| 🏆 Hackathon 2nd Runner Up | DSC Hackin' Winter |
 | 🏆 Hackathon Participant | Active competitor at InnovateNSUT '26 — built full-stack AI-powered product |
-| 🏆 Hackathon Participant | Active competitor at SIH'25 |
+| 🏆 Hackathon Participant | Active competitor at SIH '25 |
 | 🌐 Open Source Contributor | Contributed to LeetCode solutions repository (doocs/leetcode) |
 | 🤖 AI Product Builder | Developed and deployed AI-integrated web applications independently |
 | 📊 Data Analytics Builder | Built end-to-end analytical dashboards and EDA pipelines |
@@ -157,7 +164,6 @@ Designed and built a full-stack application under competitive hackathon constrai
 
 </div>
 
----
 ---
 
 ## ⬡ Coding Profiles
@@ -184,19 +190,18 @@ Designed and built a full-stack application under competitive hackathon constrai
 </p>
 
 <p align="center">
-<img src="https://streak-stats.demolab.com/?user=Rashij-17&theme=tokyonight&hide_border=true&background=0D1117&stroke=A855F7&ring=7C3AED&fire=A855F7&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=A855F7&sideLabels=A855F7&dates=C9D1D9" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rashij-17&theme=tokyonight" />
 </p>
-
----
 
 ---
 
 ## ⬡ Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rashij-17&bg_color=0D1117&color=A78BFA&line=7C3AED&point=E6E6FA&area=true&area_color=3B0764&hide_border=false&border_color=3B0764&title_color=A78BFA" />
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Rashij-17&theme=tokyonight" />
+  &nbsp;&nbsp;
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Rashij-17&theme=tokyonight" />
 </p>
-
 ---
 
 ## ⬡ Contribution Snake
