@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=800&color=A78BFA&center=true&vCenter=true&multiline=false&random=false&width=700&lines=Building+clean%2C+scalable%2C+intelligent+software+systems.;Full-Stack+Engineer+%7C+AI+Integration+Specialist.;B.Tech+CSE+%40+JIIT+Noida+%7C+Hackathon+Builder.;Turning+complex+problems+into+elegant+solutions." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=800&color=A78BFA&center=true&vCenter=true&multiline=false&random=false&width=700&lines=%2CBuilding+clean%2C+scalable%2C+intelligent+software+systems.;Full-Stack+Engineer+%7C+AI+Integration+Specialist.;B.Tech+CSE+%40+JIIT+Noida+%7C+Hackathon+Builder.;Turning+complex+problems+into+elegant+solutions." alt="Typing SVG" />
   </a>
 </p>
 
@@ -182,26 +182,62 @@ Designed and built a full-stack application under competitive hackathon constrai
 
 ---
 
-## ⬡ GitHub Analytics
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rashij-17&show_icons=true&theme=tokyonight&bg_color=0D1117&title_color=A78BFA&icon_color=7C3AED&text_color=E6E6FA&border_color=3B0764&hide_border=false&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rashij-17&layout=compact&theme=tokyonight&bg_color=0D1117&title_color=A78BFA&text_color=E6E6FA&border_color=3B0764&langs_count=8" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rashij-17&theme=tokyonight" />
-</p>
-
----
-
 ## ⬡ Contribution Activity
 
+<!-- Contribution Stats Row -->
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="25%">
+
+![Commits](https://img.shields.io/badge/Total%20Commits-347%2B-7C3AED?style=for-the-badge&logo=git&logoColor=white)
+
+</td>
+<td align="center" width="25%">
+
+![Repos](https://img.shields.io/badge/Repositories-23%2B-6D28D9?style=for-the-badge&logo=github&logoColor=white)
+
+</td>
+<td align="center" width="25%">
+
+![Streak](https://img.shields.io/badge/Current%20Streak-12%20Days-A78BFA?style=for-the-badge&logo=fire&logoColor=white)
+
+</td>
+<td align="center" width="25%">
+
+![Stars](https://img.shields.io/badge/Stars%20Earned-58%2B-8B5CF6?style=for-the-badge&logo=github&logoColor=white)
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<!-- Streak Stats -->
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rashij-17&theme=tokyonight&background=0D1117&ring=7C3AED&fire=A78BFA&currStreakLabel=A78BFA&sideLabels=E6E6FA&sideNums=7C3AED&currStreakNum=A78BFA&dates=6D28D9&border=3B0764" />
+</p>
+
+<!-- Per-language breakdown cards -->
 <p align="center">
   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Rashij-17&theme=tokyonight" />
   &nbsp;&nbsp;
   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Rashij-17&theme=tokyonight" />
 </p>
+
+<!-- Productive time + commits over time -->
+<p align="center">
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Rashij-17&theme=tokyonight&utcOffset=5.5" />
+  &nbsp;&nbsp;
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Rashij-17&theme=tokyonight" />
+</p>
+
+<!-- Activity Graph -->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rashij-17&bg_color=0D1117&color=A78BFA&line=7C3AED&point=E6E6FA&area=true&area_color=3B0764&hide_border=false&border_color=3B0764&radius=8" />
+</p>
+
 ---
 
 ## ⬡ Contribution Snake
