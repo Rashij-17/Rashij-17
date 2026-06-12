@@ -184,7 +184,7 @@ Designed and built a full-stack application under competitive hackathon constrai
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Rashij-17&theme=tokyonight&background=0D1117&ring=7C3AED&fire=A78BFA&currStreakLabel=E6E6FA&sideLabels=E6E6FA&currStreakNum=A78BFA&sideNums=7C3AED&dates=6D28D9&border=3B0764" />
+<img src="https://streak-stats.demolab.com/?user=Rashij-17&theme=tokyonight&hide_border=true&background=0D1117&stroke=A855F7&ring=7C3AED&fire=A855F7&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=A855F7&sideLabels=A855F7&dates=C9D1D9" />
 </p>
 
 ---
