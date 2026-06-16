@@ -32,7 +32,6 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Rashij-17&style=flat-square&color=7C3AED&label=Profile+Views" />
-  <img src="https://img.shields.io/github/followers/Rashij-17?style=flat-square&color=6D28D9&label=Followers&logo=github" />
   <img src="https://img.shields.io/github/stars/Rashij-17?style=flat-square&color=A78BFA&label=Stars&logo=github" />
 </p>
 
