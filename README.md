@@ -165,22 +165,6 @@ Designed and built a full-stack application under competitive hackathon constrai
 
 ---
 
-## ⬡ Coding Profiles
-
-<p align="center">
-  <a href="https://leetcode.com/u/rashijohari17/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-  </a>
-  <a href="https://www.hackerrank.com/profile/rashijohari89">
-    <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black" />
-  </a>
-  <a href="https://www.codechef.com/users/rashij_17">
-    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
-  </a>
-</p>
-
----
-
 ## ⬡ Contribution Activity
 
 <!-- Contribution Stats Row -->
