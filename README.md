@@ -1,6 +1,4 @@
-<img src="name.png" alt="Rashi Johari" height="70" />
 
-<div align="center">
 
 <img src="image.png" width="100%" alt="Project: Locked In banner" />
 
@@ -34,21 +32,5 @@
 
 <br><br>
 
-## 📊Contribution Log
-
-<br>
-
-<table align="center">
-<tr>
-<td align="center">
-<img src="https://streak-stats.demolab.com?user=Rashij-17&theme=dark&hide_border=true&background=0d1117&ring=e50914&fire=e50914&currStreakLabel=e50914" alt="Rashi's streak stats" width="420" />
-</td>
-</tr>
-</table>
-
-<br><br>
-
-## 📡 Connect
-<br>
-<a href="https://www.linkedin.com/in/rashi-johari-746a4b269"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+&logoColor=white"/></a>
 <a href="mailto:rashijohari17@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
